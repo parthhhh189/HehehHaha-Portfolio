@@ -6,7 +6,7 @@ export const Experience = () => {
       title: 'Backend Developer',
       company: 'Value Kare Technologies',
       location: 'Jaipur',
-      period: 'Jul 2025 - Present',
+      period: 'Jul 2025 - October2025',
       highlights: [
         'Contributed to AI-powered EMR & Patient Navigation Platform with ML models',
         'Developed RESTful APIs with Node.js, improving efficiency by 35%',
