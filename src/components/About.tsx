@@ -40,7 +40,7 @@ export const About = () => {
           <div className="bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-8 mb-12 animate-fade-in">
             <p className="text-lg text-foreground/90 leading-relaxed mb-6">
               I'm a <span className="text-primary font-semibold">Software Developer</span> based in Kolkata, specializing in backend and full-stack development. 
-              Currently working at <span className="text-secondary font-semibold">Value Kare Technologies</span>, 
+              Previously working at <span className="text-secondary font-semibold">Value Kare Technologies</span>, 
               I've contributed to an AI-powered EMR platform, developed RESTful APIs, and optimized system performance.
             </p>
             <p className="text-lg text-foreground/90 leading-relaxed">
